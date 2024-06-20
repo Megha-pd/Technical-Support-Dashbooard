@@ -1,4 +1,4 @@
-# Technical-Support-Dashbooard
+# Technical-Support-Dashbooard Using Power BI
 Onyx Data Challenge 
 
 ![Megha_page-0001](https://github.com/Megha-pd/Technical-Support-Dashbooard/assets/167335144/a84f7082-a276-4413-910b-3f81fec68721)
